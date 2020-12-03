@@ -1,5 +1,5 @@
 # Bone-Fracture-Detection-
-Detecting the location of bone fracture in a given x-ray image
+Detecting the location of bone fracture in a given x-ray image using machine learning
 
 ### To run the project
 * Clone the repository: `git clone https://github.com/Anveshrithaa/bone-fracture-detection.git`
