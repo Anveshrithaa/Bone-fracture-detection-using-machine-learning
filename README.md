@@ -1,11 +1,8 @@
 # Bone-Fracture-Detection-
-3rd Year college Project
+Detecting the location of bone fracture in a given x-ray image
 
-### Note:
-Manual folder contains temporary work which detects the location of fracture in a given x-ray image manually(not totally, tho;)
-
-### How to run:
-* Clone the repository: `git clone https://github.com/anandnet/Bone-Fracture-Detection.git`
+### To run the project
+* Clone the repository: `git clone https://github.com/Anveshrithaa/bone-fracture-detection.git
 * Head to the root folder: `cd Bone-Fracture-Detection`
 * Install requirements: `pip install -r requirements.txt`
 * Head to the `manual` folder: `cd manual`
